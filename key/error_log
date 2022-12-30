@@ -1,0 +1,119 @@
+[19-Sep-2022 10:35:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/key/connect.php on line 3
+[19-Sep-2022 10:35:03 UTC] PHP Warning:  Attempt to read property "connect_errno" on bool in /home/jyycitvd/public_html/key/connect.php on line 4
+[19-Sep-2022 10:35:03 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_set_charset(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/jyycitvd/public_html/key/connect.php:7
+Stack trace:
+#0 /home/jyycitvd/public_html/key/connect.php(7): mysqli_set_charset()
+#1 /home/jyycitvd/public_html/key/checkDogrulama.php(4): include('/home/jyycitvd/...')
+#2 /home/jyycitvd/public_html/key/index.php(3): include('/home/jyycitvd/...')
+#3 {main}
+  thrown in /home/jyycitvd/public_html/key/connect.php on line 7
+[19-Sep-2022 10:35:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/key/connect.php on line 3
+[19-Sep-2022 10:35:17 UTC] PHP Warning:  Attempt to read property "connect_errno" on bool in /home/jyycitvd/public_html/key/connect.php on line 4
+[19-Sep-2022 10:35:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_set_charset(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/jyycitvd/public_html/key/connect.php:7
+Stack trace:
+#0 /home/jyycitvd/public_html/key/connect.php(7): mysqli_set_charset()
+#1 /home/jyycitvd/public_html/key/adminLogin.php(5): include('/home/jyycitvd/...')
+#2 {main}
+  thrown in /home/jyycitvd/public_html/key/connect.php on line 7
+[19-Sep-2022 10:36:05 UTC] PHP Warning:  Undefined array key "verifiedAdmin" in /home/jyycitvd/public_html/key/checkDogrulamaAdmin.php on line 5
+[19-Sep-2022 10:36:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/key/connect.php on line 3
+[19-Sep-2022 10:36:06 UTC] PHP Warning:  Attempt to read property "connect_errno" on bool in /home/jyycitvd/public_html/key/connect.php on line 4
+[19-Sep-2022 10:36:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_set_charset(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/jyycitvd/public_html/key/connect.php:7
+Stack trace:
+#0 /home/jyycitvd/public_html/key/connect.php(7): mysqli_set_charset()
+#1 /home/jyycitvd/public_html/key/adminLogin.php(5): include('/home/jyycitvd/...')
+#2 {main}
+  thrown in /home/jyycitvd/public_html/key/connect.php on line 7
+[19-Sep-2022 10:36:15 UTC] PHP Warning:  Undefined array key "verifiedAdmin" in /home/jyycitvd/public_html/key/checkDogrulamaAdmin.php on line 5
+[19-Sep-2022 10:36:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/key/connect.php on line 3
+[19-Sep-2022 10:36:15 UTC] PHP Warning:  Attempt to read property "connect_errno" on bool in /home/jyycitvd/public_html/key/connect.php on line 4
+[19-Sep-2022 10:36:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_set_charset(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/jyycitvd/public_html/key/connect.php:7
+Stack trace:
+#0 /home/jyycitvd/public_html/key/connect.php(7): mysqli_set_charset()
+#1 /home/jyycitvd/public_html/key/adminLogin.php(5): include('/home/jyycitvd/...')
+#2 {main}
+  thrown in /home/jyycitvd/public_html/key/connect.php on line 7
+[21-Sep-2022 19:27:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:27:31 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:27:31 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:27:31 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[21-Sep-2022 19:27:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:27:31 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:27:31 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:27:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:27:36 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:27:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:27:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jyycitvd/public_html/chavo47.ml/key/dogrula.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/jyycitvd/public_html/chavo47.ml/key/dogrula.php on line 81
+[21-Sep-2022 19:27:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:27:42 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:27:42 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jyycitvd/public_html/chavo47.ml/key/dogrula.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/jyycitvd/public_html/chavo47.ml/key/dogrula.php on line 81
+[21-Sep-2022 19:29:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:29:38 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:29:38 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:29:38 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[21-Sep-2022 19:29:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:29:39 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:29:39 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:30:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:30:12 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:30:12 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:30:12 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[21-Sep-2022 19:30:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:30:12 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:30:12 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:30:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:30:13 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:30:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:30:13 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[21-Sep-2022 19:30:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:30:13 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:30:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:31:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:31:35 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:31:35 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:31:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:31:36 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:31:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:31:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:31:38 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:31:38 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:31:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:31:40 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:31:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[21-Sep-2022 19:31:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[21-Sep-2022 19:31:41 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[21-Sep-2022 19:31:41 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:17:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:17:59 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:17:59 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:17:59 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[22-Sep-2022 05:17:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:17:59 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:17:59 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:22:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:22:07 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:22:07 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:22:07 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[22-Sep-2022 05:22:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:22:07 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:22:07 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:22:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:22:34 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:22:34 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:22:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:22:47 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:22:47 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:22:47 UTC] PHP Notice:  Undefined index: verifiedUser in /home/jyycitvd/public_html/chavo47.ml/key/checkDogrulama.php on line 6
+[22-Sep-2022 05:22:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:22:47 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:22:47 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
+[22-Sep-2022 05:22:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 3
+[22-Sep-2022 05:22:47 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 4
+[22-Sep-2022 05:22:47 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/jyycitvd/public_html/chavo47.ml/key/connect.php on line 7
